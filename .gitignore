@@ -1,0 +1,6 @@
+.build/
+build/
+.proto-src/
+.DS_Store
+*.xcuserdatad
+.swiftpm/
